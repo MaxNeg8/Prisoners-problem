@@ -4,6 +4,9 @@ version = "0.1.0"
 authors = ["Maximilian Negedly"]
 edition = "2024"
 description = "A simple program to numerically approximate the solution to the 100 prisoners problem"
+readme = "README.md"
+repository = "https://github.com/MaxNeg8/Prisoners-problem"
+license = "MIT"
 
 [dependencies]
 rand = "0.10.0"
